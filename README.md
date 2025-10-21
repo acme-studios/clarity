@@ -1,6 +1,6 @@
 # Clarity: A Minimalist Blog Platform
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/acme-studios/clarity)
 
 Clarity is a visually serene, content-focused blog platform designed with a minimalist aesthetic. It prioritizes readability and a calm, uncluttered user experience. The application features a stunning landing page that showcases blog posts in a clean grid, and a dedicated, focused reading view for individual articles. The entire experience is built to be lightning-fast, running on Cloudflare's edge network.
 
@@ -85,7 +85,7 @@ This command will build the Vite application, bundle the worker, and deploy ever
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/acme-studios/clarity)
 
 ## Project Structure
 
